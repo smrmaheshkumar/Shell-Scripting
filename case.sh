@@ -16,7 +16,7 @@ case $var in
 	echo "You enterd a special symbol"
 	;;
 *)
-	echo "You have entered more than one characters"
+	echo "You entered more than one characters"
 	;;
 esac
 
